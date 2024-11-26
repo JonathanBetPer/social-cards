@@ -4,7 +4,7 @@ Este proyecto muestra tarjetas de redes sociales con un efecto de hover que camb
 
 ## Vista Previa
 
-![Vista previa del proyecto](./img/mage.png)
+![Vista previa del proyecto](public/img/image.png)
 
 ## Tecnologías Utilizadas
 
